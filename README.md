@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![meoww-bot's github stats](https://github-readme-stats.vercel.app/api?username=meoww-bot&show_icons=true)
+![meoww-bot's github stats](https://github-readme-stats.vercel.app/api?username=yanxiangrong&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meoww-bot&layout=compact&langs_count=12)](https://github.com/meoww-bot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxiangrong&layout=compact&langs_count=12)](https://github.com/yanxiangrong/github-readme-stats)
 
 <!--
 **yanxiangrong/yanxiangrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
